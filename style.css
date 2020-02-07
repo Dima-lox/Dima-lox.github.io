@@ -1,0 +1,14 @@
+h1, h2, h3 {
+    font-size: 70px;
+    color: green;
+}
+
+p {
+    color: darkslateblue;
+    font-size: 400%;
+}
+
+.block {
+    width: 500px;
+    height: 500px;
+}
